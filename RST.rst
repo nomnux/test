@@ -6,7 +6,7 @@ Section 1
 ---------
 
 This is a
-example of ReStructuredText.
+example of reStructuredText.
 
 
 Section 1.1
