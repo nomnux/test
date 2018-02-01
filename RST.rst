@@ -25,6 +25,9 @@ Text styles
 List
 ----
 
+bulleted list
+~~~~~~~~~~~~~
+
 * bulleted list
 
   - sub-list
