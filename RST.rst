@@ -35,6 +35,8 @@ List
 
   
 #. numbered list
+
     1. lower-case letters list
+    2. lower-case letters list
 #. numbered list
 
