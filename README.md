@@ -1,41 +1,69 @@
-Title
-====
+# Section1
 
-Test.
-Test.
+## Section2
 
-Test.
+## 段落
 
-# sec 1
+段落。
+段落。
 
-## sec 1.1
+段落。
 
-### sec 1.1.1
+段落。
 
-# List
+## List
 
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
-* Item 3.
-  Item 30.
+* list1
+* list2
+    * list2-a
+    * list2-b
+    
+1. number list 1
+1. number list 2
+    1. number list 2-a
+    1. number list 2-a
 
-1. Item 1
-1. Item 2
-   1. Item 2a
-   1. Item 2b
+段落。
 
-# code
-`some code`
+1. 手順
+1. 手順
 
-    some code
-    some code
+    コマンド実行例
+    
+    ```
+    $ ls
+    ```
+    
+    コマンド実行例
 
-    some code
-  some code
+1. 以上。
 
- some code
-  some code
-   some code
-    some code
+
+
+## Table
+
+### Table1
+
+項目名前 | 値
+----------- | --
+項目1       | 値1
+
+### Table2
+
+項目名前 | 値
+----------- | -----
+項目1       | 値1
+
+
+## Line
+
+例
+* * *
+
+例
+***
+
+例
+*****
+例
+- - - -
