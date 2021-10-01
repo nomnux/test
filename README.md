@@ -2,14 +2,14 @@
 
 ## Section2
 
-## 段落
+## Paragraph
 
-段落。
-段落。
+Paragraph.
+Paragraph.
 
-段落。
+Paragraph.
 
-段落。
+Paragraph.
 
 ## List
 
@@ -23,20 +23,20 @@
     1. number list 2-a
     1. number list 2-a
 
-段落。
+Paragraph.
 
-1. 手順
-1. 手順
+1. Procedure
+1. Procedure
 
-    コマンド実行例
+    Command execution example
     
     ```
     $ ls
     ```
     
-    コマンド実行例
+    Command execution example
 
-1. 以上。
+1. END.
 
 
 
@@ -44,26 +44,22 @@
 
 ### Table1
 
-項目名前 | 値
+Name | Value
 ----------- | --
-項目1       | 値1
+Name-1      | Value-1
 
-### Table2
-
-項目名前 | 値
------------ | -----
-項目1       | 値1
 
 
 ## Line
 
-例
+Example 1.
 * * *
 
-例
+Example 2.
 ***
 
-例
+Example 3.
 *****
-例
+
+Example 4.
 - - - -
